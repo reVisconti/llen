@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">llen_</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">llen</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="addWord">Добавить слово</string>
+    <string name="menu_home">Повторение слов</string>
+    <string name="word_list">Список слов</string>
+    <string name="word_top">Топ 4000 слов</string>
+    <string name="menu_tools">Настройки</string>
+    <string name="theme_switch">Выбор темы</string>
+    <string name="menu_share">Поделиться</string>
+</resources>
